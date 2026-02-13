@@ -1,0 +1,16 @@
+BUSINESS ACTION
+
+#LOYAL CUSTOMERS
+-- Introduce loyalty points or membership programs.
+-- Send personalized product recommendations.
+-- Offer subscription or bundle discount.
+
+#RECENT CUSTOMERS
+-- Send welcome email series with discount coupon.
+-- Provide product education and brand story.
+-- Recommend complementary products.
+
+#AT RISK
+-- Run win-back campaigns with strong offers.
+-- Send personalized reminders and reactivation emails.
+-- Offer feedback surveys to understand churn reasons.
